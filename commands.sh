@@ -24,3 +24,7 @@ pip install jupyterlab
 pip install boto3
 pip install google-cloud-storage
 pip install azure-storage-blob
+pip install langchain
+pip install openai
+pip install tiktoken
+pip install chromadb
